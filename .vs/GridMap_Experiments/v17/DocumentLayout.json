@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\Unity Games\\GridMap_Experiments\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD353EF2-49D6-C776-815A-C8107808C3B8}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\unity games\\gridmap_experiments\\assets\\scripts\\grid_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD353EF2-49D6-C776-815A-C8107808C3B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\grid_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD353EF2-49D6-C776-815A-C8107808C3B8}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\Unity Games\\GridMap_Experiments\\assets\\scripts\\turn_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD353EF2-49D6-C776-815A-C8107808C3B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\turn_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD353EF2-49D6-C776-815A-C8107808C3B8}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\Unity Games\\GridMap_Experiments\\assets\\scripts\\terrain_behaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD353EF2-49D6-C776-815A-C8107808C3B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\terrain_behaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD353EF2-49D6-C776-815A-C8107808C3B8}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\Unity Games\\GridMap_Experiments\\assets\\scripts\\mine_behaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD353EF2-49D6-C776-815A-C8107808C3B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mine_behaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD353EF2-49D6-C776-815A-C8107808C3B8}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\Unity Games\\GridMap_Experiments\\assets\\scripts\\stronghold_behaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD353EF2-49D6-C776-815A-C8107808C3B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stronghold_behaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD353EF2-49D6-C776-815A-C8107808C3B8}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\Unity Games\\GridMap_Experiments\\assets\\scripts\\main menu\\buttons_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD353EF2-49D6-C776-815A-C8107808C3B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\main menu\\buttons_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Grid_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Unity Games\\GridMap_Experiments\\Assets\\Scripts\\Grid_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Grid_Manager.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Unity Games\\GridMap_Experiments\\Assets\\Scripts\\Grid_Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Grid_Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T12:35:26.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Turn_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Unity Games\\GridMap_Experiments\\Assets\\Scripts\\Turn_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Turn_Manager.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Unity Games\\GridMap_Experiments\\Assets\\Scripts\\Turn_Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Turn_Manager.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAIwJYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T11:40:34.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Stronghold_Behaviour.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Unity Games\\GridMap_Experiments\\Assets\\Scripts\\Stronghold_Behaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Stronghold_Behaviour.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Unity Games\\GridMap_Experiments\\Assets\\Scripts\\Stronghold_Behaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Stronghold_Behaviour.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAIwIkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T11:40:13.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mine_Behaviour.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Unity Games\\GridMap_Experiments\\Assets\\Scripts\\Mine_Behaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Mine_Behaviour.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Unity Games\\GridMap_Experiments\\Assets\\Scripts\\Mine_Behaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Mine_Behaviour.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T11:39:29.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Buttons_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Unity Games\\GridMap_Experiments\\Assets\\Scripts\\Main Menu\\Buttons_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Main Menu\\Buttons_Manager.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Unity Games\\GridMap_Experiments\\Assets\\Scripts\\Main Menu\\Buttons_Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Main Menu\\Buttons_Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T18:00:22.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Terrain_Behaviour.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Unity Games\\GridMap_Experiments\\Assets\\Scripts\\Terrain_Behaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Terrain_Behaviour.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Unity Games\\GridMap_Experiments\\Assets\\Scripts\\Terrain_Behaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Terrain_Behaviour.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T14:42:00.243Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
